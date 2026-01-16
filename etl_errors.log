@@ -1,0 +1,5 @@
+2026-01-16 17:39:46,094 | ERROR | No existe el archivo de entrada: books.txt
+2026-01-16 17:39:49,254 | INFO | Productos válidos: 0
+2026-01-16 17:39:50,430 | INFO | Generado: productos.csv y productos.json
+2026-01-16 17:59:17,070 | INFO | Productos válidos: 1000
+2026-01-16 17:59:17,087 | INFO | Generado: productos.csv y productos.json
