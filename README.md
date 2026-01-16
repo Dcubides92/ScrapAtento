@@ -1,6 +1,6 @@
 # Proyecto de Web Scraping y ETL – books.toscrape.com
 
-## Parte 3: Documentación
+## Documentación
 
 Este archivo corresponde a la documentación solicitada en la prueba técnica.
 Incluye instrucciones de instalación, ejecución y decisiones técnicas tomadas
@@ -149,3 +149,4 @@ a parti de los  siguientes componentes generaria una arquitectra que cumpla con 
 Este proyecto demuestra una implementación completa de Web Scraping y ETL
 en Python, aplicando buenas prácticas de desarrollo, modularidad,
 robustez y documentación clara.
+
